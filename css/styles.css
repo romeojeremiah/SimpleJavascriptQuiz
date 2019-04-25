@@ -17,6 +17,10 @@ header, footer {
     text-align: center;
 }
 
+span {
+    color: black;
+}
+
 form {
     padding: 5%;
 }
